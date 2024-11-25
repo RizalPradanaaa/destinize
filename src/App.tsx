@@ -4,9 +4,9 @@ import { Button } from './components/ui/button'
 function App() {
 
   return (
-    <h1 className="text-3xl font-bold underline">
-    <Button>Click me</Button>
-  </h1>
+    <h1 className="font-jakarta">
+        <Button>Click me</Button>
+    </h1>
   )
 }
 
